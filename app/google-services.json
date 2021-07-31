@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "556588735716",
+    "project_id": "wave-984c0",
+    "storage_bucket": "wave-984c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556588735716:android:d1e85d2593499777d120f1",
+        "android_client_info": {
+          "package_name": "com.rajdroid.wave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556588735716-sdnaerp57gs6m11hq3hop97ud4feapvt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rajdroid.wave",
+            "certificate_hash": "5cf12763a30244448d8c6714a14af83ba1646426"
+          }
+        },
+        {
+          "client_id": "556588735716-2d2b2ej0eh5s9j5u19flik1ignvs3kh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnUV60LEIWO1XAldrrOU9ziUuKQefDhmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556588735716-2d2b2ej0eh5s9j5u19flik1ignvs3kh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
