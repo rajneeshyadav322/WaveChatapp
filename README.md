@@ -8,6 +8,8 @@
 
 * Firebase Realtime Database is used for storing encrypted message.
 
+* It also shows the status of all online and offline users.
+
 <p align="float"> 
   <kbd>
   <img src = "https://raw.githubusercontent.com/rajneeshyadav322/images/main/Splash.jpg" width ="300" hspace=30> 
